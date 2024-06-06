@@ -6,7 +6,7 @@ const nextConfig = {
                 protocol: 'https',
                 hostname: 'dd.dexscreener.com',
                 port: '',
-                pathname: '/ds-data/tokens/solana/**',
+                pathname: '/ds-data/tokens/**',
             },
         ],
     },
